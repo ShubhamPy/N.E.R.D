@@ -13,7 +13,7 @@ So, Here is mine
 # N.E.R.D Library
 Following is the code day_counts.
 
--[Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)
+- [Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)
 
 ## Problem Resources
 - [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
