@@ -1,6 +1,6 @@
 # Nerd - (Not Enough Real Daylight)
 > Everyday_counts! - Contibuting Code Everyday Since dec'18 .
-> Fun with data structures, solving complex problems, wrap up basic stuffs, enhance the problem solvinig skills.
+- > Fun with data structures, solving complex problems, wrap up basic stuffs, enhance the problem solvinig skills.
 ## Resources
 - [leetcode](https://leetcode.com/)
 - [CodeChef](https://www.codechef.com)
