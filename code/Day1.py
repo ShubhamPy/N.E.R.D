@@ -100,9 +100,43 @@ def sayhello():
     x='hello '
     y='potato'
     z=x+y
-    print(z)
 sayhello()
 
 def sayHello(name):
     print('Hello ' + name)
 sayHello('alpha')
+
+def sayhi(z):
+    x='hello '
+    y='aloo '
+    p=x+y+z
+    return p
+h=sayhi('boy')
+print(h)
+
+#lambda Function -a small anonymous function -take any no. of arguments -simple yet very useful
+
+hello= lambda x:x+1
+print(hello(6))
+
+#conditional
+x=1
+y=2
+number=[1,2,3]
+if x in number:
+    print(x in number)
+if x is not y:
+    print(x is y)
+
+#Loops -used for Iteration
+
+number=[1,2,3,4,5]
+for x in number:
+    print(x)
+for i in range(0,3):
+    print(number[i])
+
+day=1
+while day <=100:
+    print('day:',day)
+    day=day+1  #or day+=1
