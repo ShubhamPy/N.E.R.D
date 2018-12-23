@@ -5,6 +5,9 @@
 
 This provides solutions is in various languages spanning C, C++, Java, JavaScript, Python.
 
+# N.E.R.D Library
+Following is the day_count
+
 ## Problem Resources
 - [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
 ## Other Links
