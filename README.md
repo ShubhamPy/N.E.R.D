@@ -12,6 +12,7 @@ So, Here is mine
 
 # N.E.R.D Library
 Following is the code day_counts.
+
 -[Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)
 
 ## Problem Resources
