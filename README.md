@@ -5,7 +5,7 @@
 
 This provides solutions is in various languages spanning C, C++, Java, JavaScript, Python.
 
-## Resources
+## Problem Resources
 - [leetcode](https://leetcode.com/)
 - [CodeChef](https://www.codechef.com)
 - [Brilliant](https://brilliant.org/courses/#computer-science-foundational)
