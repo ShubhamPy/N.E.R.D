@@ -1,9 +1,14 @@
-## Nerd - (Not Enough Real Daylight)
+## Nerd - (Not Enough Real Daylight) 
 > #### Everyday_counts! - Contibuting Code Everyday Since dec'18 .
 
 > Fun with data structures and algorithms, solving complex problems, wrap up basic stuffs, enhance the problem solvinig skills.
 
+**N.E.R.D**  is personal offline collection of codes of algorithms, data structure, interview coding problems,basic stuffs, one will ever encounter and use in after starting programming. 
 This provides solutions is in various languages spanning `C`, `C++`, `Java`, `JavaScript`, `Python`.
+
+ > Many coders ask me how to improve their own performances. I cannot say anything except "solve and review and prepare your library" - Uwi Tenpen
+ 
+So,Here is mine
 
 # N.E.R.D Library
 Following is the code day_counts.
