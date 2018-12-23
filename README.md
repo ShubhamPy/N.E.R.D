@@ -8,7 +8,7 @@ This provides solutions is in various languages spanning `C`, `C++`, `Java`, `Ja
 
  > Many coders ask me how to improve their own performances. I cannot say anything except "solve and review and prepare your library" - Uwi Tenpen
  
-So,Here is mine
+So, Here is mine
 
 # N.E.R.D Library
 Following is the code day_counts.
