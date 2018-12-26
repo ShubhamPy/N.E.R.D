@@ -13,9 +13,9 @@ So, Here is mine
 # N.E.R.D Library
 Following is the code day_counts.
 
-- [Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)  `> Python fundamentals`
-- [Day2](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day2.py)  `> Python fundamentals-2`
-- [Day3](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day3.py)  `> Regex`
+- [Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)  ` Python fundamentals`
+- [Day2](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day2.py)  ` Python fundamentals-2`
+- [Day3](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day3.py)  ` Regex`
 
 
 ## Problem Resources
