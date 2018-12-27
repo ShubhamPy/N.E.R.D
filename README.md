@@ -20,6 +20,6 @@ Following is the code day_counts.
 
 
 ## Problem Resources
-- [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Geekforgeeks](https://www.geeksforgeeks.org/), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
+- [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Geekforgeeks](https://www.geeksforgeeks.org/), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
 ## Other Links
 > [Linkedin](https://www.linkedin.com/in/shubhampy/)
