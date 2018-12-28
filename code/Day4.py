@@ -35,7 +35,3 @@ splitfunc = re.split('-','code-lobby')
 splitfunc2=re.split('[.]','abc@mail.com')
 print(splitfunc)
 print(splitfunc2)
-
-
-findfullmatch = re.fullmatch('[a-zA-Z_]',"hello potato")
-print(findmatch)
