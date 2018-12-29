@@ -1,5 +1,5 @@
 ## Nerd - (Not Enough Real Daylight) 
-> #### Everyday_counts! - Contibuting Code Everyday Since dec'18 .
+> #### Everyday_counts! - Contributing Code Everyday from dec'18 .
 
 > Fun with data structures and algorithms, solving complex problems, wrap up basic stuffs, enhance the problem solvinig skills.
 
