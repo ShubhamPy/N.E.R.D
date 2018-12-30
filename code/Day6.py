@@ -1,6 +1,5 @@
-####################################################################################
-#                                   Day-6                                          #
-####################################################################################
+#- Program to print Emojis(Emoticons).
+
 '''
 Every emoji has a Unicode associated with it. Emojis also have a CLDR short name, which can also be used.
 From the list of unicodes, replace “+” with “000”. For example – “U+1F600” will become “U0001F600” and prefix the unicode with “\” and print it
