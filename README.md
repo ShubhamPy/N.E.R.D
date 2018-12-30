@@ -12,7 +12,7 @@ So, Here is mine
 
 # N.E.R.D code-lobby
 Following is the code day_counts.
-- [Program to Find The Most Frequent occuring Value In A List](https://github.com/ShubhamPy/N.E.R.D/commit/fdc81ddefa895dee29009b94348dd8b7b6a1f373)
+- [PYTHON | Program to Find The Most Frequent occuring Value In A List](https://github.com/ShubhamPy/N.E.R.D/commit/fdc81ddefa895dee29009b94348dd8b7b6a1f373)
 ## Problem Resources
 - [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Geekforgeeks](https://www.geeksforgeeks.org/), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
 ## Other Links
