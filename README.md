@@ -10,7 +10,7 @@ This provides solutions is in various languages spanning `C`, `C++`, `Java`, `Ja
  
 So, Here is mine
 
-# N.E.R.D code lobby
+# N.E.R.D code-lobby
 Following is the code day_counts.
 
 - [Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)  ` Python fundamentals1 `
