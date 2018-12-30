@@ -60,3 +60,8 @@ face with thermometer	                U+1F912
 face with head-bandage	                U+1F915
 nauseated face	                        U+1F922
 '''
+
+#- Program to Find The Most Frequent occuring Value In A List
+
+y = [1,5,6,7,8,7,8,9,0,7,'alpha','alpha','alpha','alpha','potato']
+print(max(set(y), key=y.count))
