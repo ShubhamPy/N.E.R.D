@@ -29,3 +29,11 @@ if findfullmatch3:
     print('confirmed')
 else:
     print("invalid identifier")
+
+  #extract words
+any_quote= "How you look at it is pretty much how you'll see it!"
+extract1=re.findall('[yY]\w*',any_quote)
+print(extract1)
+
+extract2=re.findall('[yY]\S*',any_quote)       #extract whole word begins with y or Y.
+print(extract2)
