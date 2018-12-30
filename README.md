@@ -12,15 +12,7 @@ So, Here is mine
 
 # N.E.R.D code-lobby
 Following is the code day_counts.
-
-- [Day1](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day1.py)  ` Python fundamentals1 `
-- [Day2](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day2.py)  ` Python fundamentals2 `
-- [Day3](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day3.py)  ` Regex1 `
-- [Day4](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day4.py)  ` Regex2 `
-- [Day5](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day5.py)  ` Regex3 `
-- [Day6](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day6.py)  ``
-- [Day7](https://github.com/ShubhamPy/N.E.R.D/blob/master/code/Day7.py)  ``
-
+- [Python | Program to Find The Most Frequent occuring Value In A List](https://github.com/ShubhamPy/N.E.R.D/commit/fdc81ddefa895dee29009b94348dd8b7b6a1f373)
 ## Problem Resources
 - [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Geekforgeeks](https://www.geeksforgeeks.org/), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
 ## Other Links
