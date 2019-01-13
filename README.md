@@ -8,7 +8,7 @@ This provides solutions is in various languages spanning `C`, `C++`, `Java`, `Ja
  
 So, Here is mine
 
-# N.E.R.D codeLobby
+# N.E.R.D -codeLobby
 
 - [Python | Program to Find The Most Frequent occuring Value In A List](https://github.com/ShubhamPy/N.E.R.D/commit/fdc81ddefa895dee29009b94348dd8b7b6a1f373)
 ## Problem Resources
