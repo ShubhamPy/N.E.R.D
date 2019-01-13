@@ -14,6 +14,6 @@ So, Here is mine
 Following is the code day_counts.
 - [Python | Program to Find The Most Frequent occuring Value In A List](https://github.com/ShubhamPy/N.E.R.D/commit/fdc81ddefa895dee29009b94348dd8b7b6a1f373)
 ## Problem Resources
-- [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Brilliant](https://brilliant.org/courses/#computer-science-foundational), [Geekforgeeks](https://www.geeksforgeeks.org/), [Coding Ninjas](https://www.codingninjas.in/app/home), [Pluralsight](https://www.pluralsight.com/), [Indiabix](https://www.indiabix.com/)
+- [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Geekforgeeks](https://www.geeksforgeeks.org/)
 ## Other Links
 > [Linkedin](https://www.linkedin.com/in/shubhampy/)
