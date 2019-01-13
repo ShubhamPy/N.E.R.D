@@ -1,6 +1,4 @@
 ## Nerd - (Not Enough Real Daylight) 
-> #### Everyday_counts! - Contributing Code Everyday from dec'18 .
-
 > Fun with data structures and algorithms, solving complex problems, wrap up basic stuffs, enhance the problem solvinig skills.
 
 **N.E.R.D**  is personal offline collection of codes of algorithms, data structure, interview coding problems,progrmming language basic stuffs, one will ever encounter and use in after starting programming. 
