@@ -39,7 +39,7 @@ Output produced here:
 now again j value increments,and j becomes j=2 but now condition is false so it come out from loop and print nextline function for 1st loop.
 and so on it print the pattern upto i=5 then it come out from 1st loop also.
 */
-public class RightTriangle {
+public class ARightTriangle {
     public static void main(String[] args) {
         for(int i=1;i<=5;i++){
             for(int j=0;j<i;j++){
