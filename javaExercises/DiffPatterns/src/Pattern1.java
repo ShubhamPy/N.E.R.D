@@ -12,7 +12,7 @@ print this pattern:
 
 Our approach for finding this pattern solution is
 We are going to use two loops -one loop for count the line and other for print"*".
-yeah,i know its difficult to understand what i just say, no problem i explain this in brief below.
+yeah,i know its difficult to understand what i just say, no problem i explain this in brief below.(Also I added a flowchart for this problem)
 
 First loop (i=1;i<=5;i++),it is basic syntax for initializing a loop which count upto 5(i.e 1-5),
 but here second loop is going to help in printing *'s (j=0;j<i;j++). see we initialize j from 0 and condition is j<i
