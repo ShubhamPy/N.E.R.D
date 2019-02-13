@@ -1,4 +1,4 @@
-## Python Code Library
+## Python -CodeLobby
 
 - [Python | Wrapping up python3.x basics](https://github.com/ShubhamPy/N.E.R.D/blob/master/pythonExercises/Day1.py)
 - [Python | Wrapping up  python3.x fundamentals-2:cover(modules, classes, file, work with json)](https://github.com/ShubhamPy/N.E.R.D/blob/master/pythonExercises/Day2.py)
