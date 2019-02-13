@@ -10,7 +10,7 @@ So, Here is mine
 
 # N.E.R.D CodeLibrary
 - [Python CodeLobby](https://github.com/ShubhamPy/N.E.R.D/blob/master/pythonExercises/README.md)
-- [java CodeLobby](https://github.com/ShubhamPy/N.E.R.D/blob/master/javaExercises/readme.md)
+- [Java CodeLobby](https://github.com/ShubhamPy/N.E.R.D/blob/master/javaExercises/readme.md)
 ## Problem Resources
 - [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Geekforgeeks](https://www.geeksforgeeks.org/)
 ## Other Links
