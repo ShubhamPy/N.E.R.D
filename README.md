@@ -2,7 +2,7 @@
 > Fun with data structures and algorithms, solving complex problems, wrap up basic stuffs, enhance the problem solvinig skills.
 
 **N.E.R.D**  is personal offline collection of codes of algorithms, data structure, interview coding problems,progrmming language basic stuffs, one will ever encounter and use in after starting programming. 
-This provides solutions is in various languages spanning  `Java`, `JavaScript`, `Python`.
+This provides solutions is in various languages spanning  `Java`, `Python`.
 
  > Many coders ask me how to improve their own performances. I cannot say anything except "solve and review and prepare your library" - Uwi Tenpen
  
@@ -14,7 +14,7 @@ So, Here is mine
 - [Java CodeLobby](https://github.com/ShubhamPy/N.E.R.D/blob/master/javaExercises/readme.md)
 > Java is a set of computer software and specifications developed by James Gosling at Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment.Writing in the Java programming language is the primary way to produce code that will be deployed as byte code in a Java virtual machine (JVM). [Java Docs](https://docs.oracle.com/en/java/javase/11/)
 - [ProjectEuler CodeLobby]
-> Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts adults and students interested in mathematics and computer programming. Since its creation in 2001 by Colin Hughes. [Project Euler](https://projecteuler.net ).A Competitive Programming version of the same problems is on hackerone as [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
+> Project Euler is a website dedicated to a series of computational problems intended to be solved with computer programs. The project attracts adults and students interested in mathematics and computer programming. Since its creation in 2001 by Colin Hughes. [Project Euler](https://projecteuler.net ).A Competitive Programming version of the same problems is on hackerrank as [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 ## Problem Resources
 - [leetcode](https://leetcode.com/), [CodeChef](https://www.codechef.com), [hackerEarth](https://www.hackerearth.com/), [Geekforgeeks](https://www.geeksforgeeks.org/)
 ## Other Links
